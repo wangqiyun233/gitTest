@@ -2,3 +2,4 @@ this is vim test
 hello world
 haha
 easy
+uuu
